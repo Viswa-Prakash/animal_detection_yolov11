@@ -1,0 +1,9 @@
+dill
+from-root
+notebook
+boto3
+mypy-boto3-s3
+flask-cors
+flask
+ultralytics
+-e .

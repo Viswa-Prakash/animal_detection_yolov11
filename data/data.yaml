@@ -1,0 +1,15 @@
+train: C:\\Users\\viswa\\Documents\\MLOPs\\animal_detection_yolov11\\train.txt
+val: C:\\Users\\viswa\\Documents\\MLOPs\\animal_detection_yolov11\\val.txt
+
+# Classes
+names:
+  0: cat
+  1: chicken
+  2: cow
+  3: dog
+  4: foxr
+  5: goat
+  6: horse
+  7: person
+  8: racoon
+  9: skunk
