@@ -174,3 +174,8 @@ cython_debug/
 .pypirc
 artifacts/*
 log/*
+images
+labels
+classes.names
+train.txt
+val.txt
